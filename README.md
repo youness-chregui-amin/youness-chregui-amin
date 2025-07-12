@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠️ Passionate about Linux, cybersecurity, and game development<br>💻 I work with Python, C, and C++<br>🎮 I develop games using Godot, Blender, Unity, and Unreal Engine<br>🌐 I also have knowledge of HTML and CSS for basic web design<br>🐧 Daily driver: Kali Linux — lightweight and perfect for learning</h3>
+<h3 align="left">🛠️ Passionate about Linux, cybersecurity, and game development<br>💻 I work with Python, C, and C++<br>🎮 I develop games using Godot, Blender, Unity, and Unreal Engine<br>🌐 I also have knowledge of HTML and CSS for basic web design<br>🐧 Daily driver: Linux — lightweight and perfect for learning</h3>
 
 ###
 
