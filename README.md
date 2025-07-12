@@ -2,11 +2,10 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.imgflip.com/a022hq.gif" />
+
+<div align="center">
+  <img src="https://i.imgflip.com/a022hq.gif" alt="GIF Banner" style="width:100%; max-width:1000px;" />
 </div>
-
-
 
 
 
