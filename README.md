@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">🎮 Game Development:</h2>
+<h2 align="left">🎮 Game Development 2D && 3D:</h2>
 
 ###
 
